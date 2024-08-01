@@ -28,7 +28,7 @@
     "@angular/router": "^16.2.12",
     "karma-coverage": "^2.2.0",
     "rxjs": "^7.8.1",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.13.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.2.14",
@@ -46,7 +46,7 @@
     "@commitlint/travis-cli": "^16.3.0",
     "@types/jasmine": "^3.6.11",
     "@types/jasminewd2": "^2.0.10",
-    "@types/node": "^15.14.9",
+    "@types/node": "^16.18.104",
     "@typescript-eslint/eslint-plugin": "^5.29.0",
     "@typescript-eslint/eslint-plugin-tslint": "^5.8.1",
     "@typescript-eslint/parser": "^5.29.0",
@@ -62,9 +62,9 @@
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "~4.0.0",
-    "ng-packagr": "^15.2.2",
+    "ng-packagr": "^16.2.3",
     "standard-version": "^9.3.1",
     "ts-node": "~10.2.1",
-    "typescript": "~4.8.4"
+    "typescript": "~4.9.5"
   }
 }
