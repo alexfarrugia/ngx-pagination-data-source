@@ -1,6 +1,6 @@
 {
   "name": "ngx-pagination-data-source",
-  "version": "0.0.0",
+  "version": "1.16.0",
   "scripts": {
     "ng": "ng",
     "prebuild": "cp \"README.md\" \"projects/ngx-pagination-data-source\"",

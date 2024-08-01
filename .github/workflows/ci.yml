@@ -14,7 +14,7 @@ jobs:
       - run: npm run lint
       - run: npm run build
       - run: npm run test:ci
-      - uses: codecov/codecov-action@v3
+#      - uses: codecov/codecov-action@v3
         with:
-          files: ./projects/ngx-pagination-data-source/coverage/lcov.info
+#          files: ./projects/ngx-pagination-data-source/coverage/lcov.info
           fail_ci_if_error: true
