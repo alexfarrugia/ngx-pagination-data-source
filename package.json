@@ -47,7 +47,7 @@
     "@types/jasmine": "^3.6.11",
     "@types/jasminewd2": "^2.0.10",
     "@types/node": "^16.18.104",
-    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/eslint-plugin-tslint": "^7.0.2",
     "@typescript-eslint/parser": "^7.18.0",
     "cpx-fixed": "^1.6.0",
