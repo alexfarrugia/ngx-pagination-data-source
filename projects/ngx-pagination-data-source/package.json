@@ -3,7 +3,7 @@
   "version": "8.0.0",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/alexfarrugia"
+    "registry": "https://npm.pkg.github.com/logiccrunch"
   },
   "originalAuthor": "Nils Melhorn <mail@nils-mehlhorn.de> (https://nils-mehlhorn.de)",
   "author": "Alex Farrugia",
