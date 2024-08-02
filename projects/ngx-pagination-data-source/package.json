@@ -1,5 +1,5 @@
 {
-  "name": "@alexfarrugia/ngx-pagination-data-source",
+  "name": "@logiccrunch/ngx-pagination-data-source",
   "version": "8.0.0",
   "main": "index.js",
   "publishConfig": {
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexfarrugia/ngx-pagination-data-source.git"
+    "url": "https://github.com/logiccrunch/ngx-pagination-data-source.git"
   },
   "bugs": {
-    "url": "https://github.com/alexfarrugia/ngx-pagination-data-source/issues"
+    "url": "https://github.com/logiccrunch/ngx-pagination-data-source/issues"
   },
   "peerDependencies": {
     "@angular/cdk": "^16.2.14",
