@@ -1,5 +1,5 @@
 {
-  "name": "ngx-pagination-data-source",
+  "name": "@alex-farrugia/ngx-pagination-data-source",
   "version": "8.0.0",
   "scripts": {
     "ng": "ng",
@@ -15,7 +15,6 @@
     "prerelease": "npm ci && npm run lint && npm run test && npm run build",
     "release": "npm publish --folder ./dist/ngx-pagination-data-source"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^16.2.12",
     "@angular/cdk": "^16.2.14",

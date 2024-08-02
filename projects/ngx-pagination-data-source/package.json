@@ -3,11 +3,11 @@
   "version": "8.0.0",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/alexfarrugia"
   },
-  "author": "Nils Melhorn <mail@nils-mehlhorn.de> (https://nils-mehlhorn.de)",
+  "originalAuthor": "Nils Melhorn <mail@nils-mehlhorn.de> (https://nils-mehlhorn.de)",
+  "author": "Alex Farrugia",
   "description": "Angular Material Pagination Data Source",
-  "homepage": "https://github.com/nilsmehlhorn/ngx-pagination-data-source",
   "keywords": [
     "rxjs",
     "angular",
@@ -32,5 +32,6 @@
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "private": true
 }
